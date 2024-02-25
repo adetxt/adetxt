@@ -8,5 +8,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adetxt&show_icons=true&locale=en&layout=compact" alt="adetxt" /></p>
-
-<p><img align="center" src="https://raw.githubusercontent.com/adetxt/adetxt/master/profile-3d-contrib/profile-night-green.svg" /></p>
